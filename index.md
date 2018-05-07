@@ -10,14 +10,11 @@ This policy was written by the RAC Donor Relations & Collections Development tea
 
 ## I. Mission
 
-The Rockefeller Archive Center supports and fosters understanding of the activities of individuals and organizations dedicated to improving the well-being of humankind. The Center does this by collecting, preserving
-and promoting research into the records that document the impact of these activities and by making its collections and expertise as widely available as possible to a global audience of scholars, students and professionals.
+The Rockefeller Archive Center supports and fosters understanding of the activities of individuals and organizations dedicated to improving the well-being of humankind. The Center does this by collecting, preserving and promoting research into the records that document the impact of these activities and by making its collections and expertise as widely available as possible to a global audience of scholars, students and professionals.
 
 ## II. Collection History
 
-Collection acquisition at the Rockefeller Archive Center (RAC) was originally tied directly to its founding institutions. The RAC was founded in 1974 as the repository for the papers of the Rockefeller family as well as the records of the various organizations and institutions they established and funded, including the Rockefeller
-Foundation, Rockefeller Brothers Fund, and the Rockefeller
-University. In 1985, an institutional decision was made to expand the scope of RAC collecting to include non-Rockefeller-founded organizations with a mission and/or activities similar to those of the RAC’s founding organizations.
+Collection acquisition at the Rockefeller Archive Center (RAC) was originally tied directly to its founding institutions. The RAC was founded in 1974 as the repository for the papers of the Rockefeller family as well as the records of the various organizations and institutions they established and funded, including the Rockefeller Foundation, Rockefeller Brothers Fund, and the Rockefeller University. In 1985, an institutional decision was made to expand the scope of RAC collecting to include non-Rockefeller-founded organizations with a mission and/or activities similar to those of the RAC’s founding organizations.
 
 ## III. Statement about Appraisal
 
@@ -47,14 +44,14 @@ C.  *Types and Formats*
 
   1.  *Foundation and other Non-Profit Records*
 
-    Records produced in the normal course of business of a philanthropic organization, including administrative correspondence, grant records, officers’ files, program and policy records, official organizational records (charter, articles of incorporation, by-laws, etc), grant-related publications or products, and reports and board of trustee files.
+  Records produced in the normal course of business of a philanthropic organization, including administrative correspondence, grant records, officers’ files, program and policy records, official organizational records (charter, articles of incorporation, by-laws, etc), grant-related publications or products, and reports and board of trustee files.
 
   2.  *Rockefeller University Records*
 
-    Administrative, programmatic, operational, legal and academic records of enduring value that document the history and development of the university and the work of its faculty and staff, such as Board of Trustees files, records of the Office of the President and Vice President, and administrative and operational files of the various offices and departments of the university.
+  Administrative, programmatic, operational, legal and academic records of enduring value that document the history and development of the university and the work of its faculty and staff, such as Board of Trustees files, records of the Office of the President and Vice President, and administrative and operational files of the various offices and departments of the university.
 
   3.  *Personal Papers and Collections*
 
-    Personal papers and collections created by members of the Rockefeller family - particularly those involved in the areas of philanthropic endeavors and public interests - as well as those of individuals related to the Rockefeller family or one of the RAC’s donor organizations. These records include personal and professional correspondence, subject files, lectures and speeches, articles and manuscripts, and other files related to both the personal and professional lives of the related individuals.
+  Personal papers and collections created by members of the Rockefeller family - particularly those involved in the areas of philanthropic endeavors and public interests - as well as those of individuals related to the Rockefeller family or one of the RAC’s donor organizations. These records include personal and professional correspondence, subject files, lectures and speeches, articles and manuscripts, and other files related to both the personal and professional lives of the related individuals.
 
     - a.  A comprehensive collection of all archival records relating to the first three generations of the Rockefeller family is maintained by the RAC. For succeeding generations, the RAC collects only those records relating to their philanthropic endeavors and public interests.
