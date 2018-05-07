@@ -44,14 +44,14 @@ C.  *Types and Formats*
 
   1.  *Foundation and other Non-Profit Records*
 
-  Records produced in the normal course of business of a philanthropic organization, including administrative correspondence, grant records, officers’ files, program and policy records, official organizational records (charter, articles of incorporation, by-laws, etc), grant-related publications or products, and reports and board of trustee files.
+    - Records produced in the normal course of business of a philanthropic organization, including administrative correspondence, grant records, officers’ files, program and policy records, official organizational records (charter, articles of incorporation, by-laws, etc), grant-related publications or products, and reports and board of trustee files.
 
   2.  *Rockefeller University Records*
 
-  Administrative, programmatic, operational, legal and academic records of enduring value that document the history and development of the university and the work of its faculty and staff, such as Board of Trustees files, records of the Office of the President and Vice President, and administrative and operational files of the various offices and departments of the university.
+    - Administrative, programmatic, operational, legal and academic records of enduring value that document the history and development of the university and the work of its faculty and staff, such as Board of Trustees files, records of the Office of the President and Vice President, and administrative and operational files of the various offices and departments of the university.
 
   3.  *Personal Papers and Collections*
 
-  Personal papers and collections created by members of the Rockefeller family - particularly those involved in the areas of philanthropic endeavors and public interests - as well as those of individuals related to the Rockefeller family or one of the RAC’s donor organizations. These records include personal and professional correspondence, subject files, lectures and speeches, articles and manuscripts, and other files related to both the personal and professional lives of the related individuals.
+    - Personal papers and collections created by members of the Rockefeller family - particularly those involved in the areas of philanthropic endeavors and public interests - as well as those of individuals related to the Rockefeller family or one of the RAC’s donor organizations. These records include personal and professional correspondence, subject files, lectures and speeches, articles and manuscripts, and other files related to both the personal and professional lives of the related individuals.
 
-  - a.  A comprehensive collection of all archival records relating to the first three generations of the Rockefeller family is maintained by the RAC. For succeeding generations, the RAC collects only those records relating to their philanthropic endeavors and public interests.
+        - a.  A comprehensive collection of all archival records relating to the first three generations of the Rockefeller family is maintained by the RAC. For succeeding generations, the RAC collects only those records relating to their philanthropic endeavors and public interests.
