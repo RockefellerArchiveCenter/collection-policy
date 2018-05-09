@@ -1,12 +1,7 @@
 ---
 layout: docs
-title:  "Collection Policy"
+title:  "ockefeller Archive Center Collection Policy"
 ---
-
-This policy was written by the RAC Donor Relations & Collections Development team and is made available under a Creative Commons Zero (CC0) dedication.
-
-
-# Rockefeller Archive Center Collection Policy
 
 ## I. Mission
 
