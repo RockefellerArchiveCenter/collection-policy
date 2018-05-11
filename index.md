@@ -41,9 +41,11 @@ C.  *Types and Formats*
 
       - Records produced in the normal course of business of a philanthropic organization, including administrative correspondence, grant records, officers’ files, program and policy records, official organizational records (charter, articles of incorporation, by-laws, etc), grant-related publications or products, and reports and board of trustee files.
 
+
   2.  *Rockefeller University Records*
 
       - Administrative, programmatic, operational, legal and academic records of enduring value that document the history and development of the university and the work of its faculty and staff, such as Board of Trustees files, records of the Office of the President and Vice President, and administrative and operational files of the various offices and departments of the university.
+
 
   3.  *Personal Papers and Collections*
 
