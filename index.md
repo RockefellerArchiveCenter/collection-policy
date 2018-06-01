@@ -51,4 +51,4 @@ C.  *Types and Formats*
 
       - Personal papers and collections created by members of the Rockefeller family - particularly those involved in the areas of philanthropic endeavors and public interests - as well as those of individuals related to the Rockefeller family or one of the RAC’s donor organizations. These records include personal and professional correspondence, subject files, lectures and speeches, articles and manuscripts, and other files related to both the personal and professional lives of the related individuals.
 
-          - a.  A comprehensive collection of all archival records relating to the first three generations of the Rockefeller family is maintained by the RAC. For succeeding generations, the RAC collects only those records relating to their philanthropic endeavors and public interests.
+          a.  A comprehensive collection of all archival records relating to the first three generations of the Rockefeller family is maintained by the RAC. For succeeding generations, the RAC collects only those records relating to their philanthropic endeavors and public interests.
