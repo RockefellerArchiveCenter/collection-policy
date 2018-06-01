@@ -5,7 +5,7 @@ title:  "Rockefeller Archive Center Collection Policy"
 
 ## I. Mission
 
-The Rockefeller Archive Center supports and fosters understanding of the activities of individuals and organizations dedicated to improving the well-being of humankind. The Center does this by collecting, preserving and promoting research into the records that document the impact of these activities and by making its collections and expertise as widely available as possible to a global audience of scholars, students and professionals.
+The Rockefeller Archive Center supports and fosters understanding of the activities of individuals and organizations dedicated to improving the well-being of humankind. The Center does this by collecting, preserving, and promoting research into the records that document the impact of these activities and by making its collections and expertise as widely available as possible to a global audience of scholars, students, and professionals.
 
 ## II. Collection History
 
@@ -13,9 +13,9 @@ Collection acquisition at the Rockefeller Archive Center (RAC) was originally ti
 
 ## III. Statement about Appraisal
 
-Records are selected for permanent retention at the Archive Center through the process of archival appraisal. Appraisal constitutes an evaluation of records to determine those that have enduring or permanent value. Enduring historical value refers to the ongoing significance of the records based on the legal, administrative, and/or historical information they contain. Appraisal can be conducted at a collection, subgroup, file or item level and occurs prior to donation and physical transfer of the records. The process includes a preliminary evaluation of the records and negotiation of the conditions of the intellectual property and physical transfer of the records.
+Records are selected for permanent retention at the Archive Center through the process of archival appraisal. Appraisal constitutes an evaluation of records to determine those that have enduring or permanent value. Enduring historical value refers to the ongoing significance of the records based on the legal, administrative, and/or historical information they contain. Appraisal can be conducted at a collection, subgroup, file, or item level and occurs prior to donation and physical transfer of the records. The process includes a preliminary evaluation of the records and negotiation of the conditions of the intellectual property and physical transfer of the records.
 
-Once materials have been appraised and accessioned, they are considered archival. Archival records are those that are no longer actively used by the creator, are or will be open and available for researcher use, are authentic, and have enduring historical value. For a record to be authentic, it must be genuine, not counterfeited, and free from tampering. This means the record was created by the person, family or
+Once materials have been appraised and accessioned, they are considered archival. Archival records are those that are no longer actively used by the creator, are or will be open and available for researcher use, are authentic, and have enduring historical value. For a record to be authentic, it must be genuine, not counterfeited, and free from tampering. This means the record was created by the person, family, or
 organization listed as the creator and can be verified through the testing of various characteristics of a record (author, addressee, date of creation, date of modification, etc).
 
 ## IV. Statement about Preservation
@@ -26,7 +26,7 @@ It is the objective of the RAC to preserve and provide long-term care and mainte
 
 A.  *Subject Areas*
 
-  The collections of the RAC are closely related to the subject areas that have been the focus of the Rockefeller family and modern philanthropy. Amongst these areas are public health, medicine, arts and humanities, race relations, scientific technology and research, agriculture, social welfare, social sciences, international relations, education and politics.
+  The collections of the RAC are closely related to the subject areas that have been the focus of the Rockefeller family and modern philanthropy. Amongst these areas are public health, medicine, arts and humanities, race relations, scientific technology and research, agriculture, social welfare, social sciences, international relations, education, and politics.
 
 B.  *Time*
 
@@ -44,7 +44,7 @@ C.  *Types and Formats*
 
   2.  *Rockefeller University Records*
 
-      - Administrative, programmatic, operational, legal and academic records of enduring value that document the history and development of the university and the work of its faculty and staff, such as Board of Trustees files, records of the Office of the President and Vice President, and administrative and operational files of the various offices and departments of the university.
+      - Administrative, programmatic, operational, legal, and academic records of enduring value that document the history and development of the university and the work of its faculty and staff, such as Board of Trustees files, records of the Office of the President and Vice President, and administrative and operational files of the various offices and departments of the university.
 
 
   3.  *Personal Papers and Collections*
