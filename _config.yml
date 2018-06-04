@@ -1,0 +1,12 @@
+public: true
+type: "docs"
+tags:
+  - "collection"
+  - "policy"
+  - "preservation"
+  - "mission"
+  - "appraisal"
+title: "Collection Policy"
+description: "The main collecting areas of the Rockefeller Archive Center."
+pages:
+  - ["Collection Policy", "index"]
