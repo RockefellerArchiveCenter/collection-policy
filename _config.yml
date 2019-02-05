@@ -1,11 +1,8 @@
 public: true
 type: "docs"
+category: "collection development and management"
 tags:
-  - "collection"
   - "policy"
-  - "preservation"
-  - "mission"
-  - "appraisal"
 title: "Collection Policy"
 description: "The main collecting areas of the Rockefeller Archive Center."
 pages:
