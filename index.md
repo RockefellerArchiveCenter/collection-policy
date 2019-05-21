@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Rockefeller Archive Center Collection Policy"
+title:  "Collection Policy"
 ---
 
 ## I. Mission
