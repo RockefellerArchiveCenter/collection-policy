@@ -3,51 +3,28 @@ layout: docs
 title:  "Collection Policy"
 ---
 
-## I. Mission
+## Collecting Scope
 
-The Rockefeller Archive Center supports and fosters understanding of the activities of individuals and organizations dedicated to improving the well-being of humankind. The Center does this by collecting, preserving, and promoting research into the records that document the impact of these activities and by making its collections and expertise as widely available as possible to a global audience of scholars, students, and professionals.
+The Rockefeller Archive Center’s acquisition efforts focus on collections documenting the broader history of philanthropy and other efforts to work on behalf of the public good. Because the means and methods of these activities are constantly evolving, the RAC’s overall collecting strategy and efforts will continuously evolve and remain flexible so as to reflect and document these changes.
 
-## II. Collection History
+Consistent with the RAC’s [Mission, Vision, and Values](https://rockarch.org/about-us/mission-vision-values/), the RAC has a particular interest in collecting materials related to philanthropy’s engagement with communities currently underrepresented in our collections. We aspire to undertake such collecting activities in a culturally competent manner to ensure that the relationship between the RAC and these communities is respectful and equitable.
 
-Collection acquisition at the Rockefeller Archive Center (RAC) was originally tied directly to its founding institutions. The RAC was founded in 1974 as the repository for the papers of the Rockefeller family as well as the records of the various organizations and institutions they established and funded, including the Rockefeller Foundation, Rockefeller Brothers Fund, and the Rockefeller University. In 1985, an institutional decision was made to expand the scope of RAC collecting to include non-Rockefeller-founded organizations with a mission and/or activities similar to those of the RAC’s founding organizations.
+The RAC collects a variety of formats including but not limited to paper documents, electronic and born-digital records, photographic media, audio, and moving images, while also considering the long-term preservation needs of the materials and our ability to be good stewards.
 
-## III. Statement about Appraisal
+The RAC collects non-unique published resources in a limited way consistent with this Collection Policy and the [RAC Library Collection Management Policy](/library-policy/). 
 
-Records are selected for permanent retention at the Archive Center through the process of archival appraisal. Appraisal constitutes an evaluation of records to determine those that have enduring or permanent value. Enduring historical value refers to the ongoing significance of the records based on the legal, administrative, and/or historical information they contain. Appraisal can be conducted at a collection, subgroup, file, or item level and occurs prior to donation and physical transfer of the records. The process includes a preliminary evaluation of the records and negotiation of the conditions of the intellectual property and physical transfer of the records.
+Since we are primarily an archival repository and not a museum, we do not actively collect or accept artifacts or artwork. 
 
-Once materials have been appraised and accessioned, they are considered archival. Archival records are those that are no longer actively used by the creator, are or will be open and available for researcher use, are authentic, and have enduring historical value. For a record to be authentic, it must be genuine, not counterfeited, and free from tampering. This means the record was created by the person, family, or
-organization listed as the creator and can be verified through the testing of various characteristics of a record (author, addressee, date of creation, date of modification, etc).
+## Archival Appraisal Prior to Acquisition
 
-## IV. Statement about Preservation
+Records are selected for acquisition by the RAC through the process of archival appraisal. Appraisal constitutes an evaluation of records to determine whether the materials being considered for acquisition have enduring or permanent informational value within the RAC’s collecting scope as defined by this policy. 
 
-It is the objective of the RAC to preserve and provide long-term care and maintenance for archival records to the best of its ability, regardless of format.
+Once materials have been appraised, legally transferred to, and accessioned into the RAC’s collections, they are considered archival. Archival records are those that are no longer actively used by the creator, are or will be open and available for public use, are authentic, and have enduring historical or informational value. 
 
-## V. Main Collecting Areas
+## Reappraisal and Deaccessioning
 
-### A. Subject Areas
+From time to time, the RAC evaluates and strengthens the integrity and cohesion of its archival collections within the framework of the RAC’s approved Collection Policy through the process of [Reappraisal](https://docs.rockarch.org/reappraisal-policy). 
 
-  The collections of the RAC are closely related to the subject areas that have been the focus of the Rockefeller family and modern philanthropy. Amongst these areas are public health, medicine, arts and humanities, race relations, scientific technology and research, agriculture, social welfare, social sciences, international relations, education, and politics.
+Deaccessioning, or the process by which the RAC permanently removes previously accessioned materials from its holdings, is done in accordance with the RAC’s [Deaccession Policy](/deaccession-policy).
 
-### B. Time
-
-  While the records of individuals or individual organizations may extend beyond those dates, the RAC primarily collects records from organizations and individuals active in the 20th and 21st centuries.
-
-### C. Types and Formats
-
-  The RAC collects records in a variety of formats including paper-based files, born-digital files, microfilm, audio or video recordings, photographs, maps, films, or architectural drawings. Some record types are also specific to their creators:
-
-
-#### 1. Foundation and other Non-Profit Records
-
-  Records produced in the normal course of business of a philanthropic organization, including administrative correspondence, grant records, officers’ files, program and policy records, official organizational records (charter, articles of incorporation, by-laws, etc), grant-related publications or products, and reports and board of trustee files.  
-
-
-#### 2. Rockefeller University Records
-
-  Administrative, programmatic, operational, legal, and academic records of enduring value that document the history and development of the university and the work of its faculty and staff, such as Board of Trustees files, records of the Office of the President and Vice President, and administrative and operational files of the various offices and departments of the university.
-
-#### 3.  Personal Papers and Collections
-
-  Personal papers and collections created by members of the Rockefeller family - particularly those involved in the areas of philanthropic endeavors and public interests - as well as those of individuals related to the Rockefeller family or one of the RAC’s donor organizations. These records include personal and professional correspondence, subject files, lectures and speeches, articles and manuscripts, and other files related to both the personal and professional lives of the related individuals.
-
-  a.  A comprehensive collection of all archival records relating to the first three generations of the Rockefeller family is maintained by the RAC. For succeeding generations, the RAC collects only those records relating to their philanthropic endeavors and public interests.
+_Approved: January 16, 2024_
