@@ -15,7 +15,7 @@ The RAC only collects non-unique published resources in a limited way consistent
 
 Since we are primarily an archival repository and not a museum, we do not collect or accept artifacts or artwork.
 
-### Archival Appraisal Prior to Acquisition
+## Archival Appraisal Prior to Acquisition
 
 The RAC uses the established practice of archival appraisal to evaluate and determine if records are archival and appropriate for acquisition. 
 
@@ -27,7 +27,7 @@ Archival records are those records, regardless of format, that:
 
 Once materials have been appraised and determined to be appropriate for acquisition, the records must be legally transferred to the RAC through an agreement establishing clear and actionable ownership, usage, and access terms. The records will then be physically transferred and accessioned into the RAC’s collections and declared to be in our custody and under our stewardship. 
 
-### Reappraisal and Deaccessioning
+## Reappraisal and Deaccessioning
 
 As part of its commitment to excellence in collections stewardship, the RAC evaluates and strengthens the integrity and cohesion of its archival collections through the process of [Reappraisal](https://docs.rockarch.org/reappraisal-policy).
 
