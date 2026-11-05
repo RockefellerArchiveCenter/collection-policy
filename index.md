@@ -20,10 +20,10 @@ Since we are primarily an archival repository and not a museum, we do not collec
 The RAC uses the established practice of archival appraisal to evaluate and determine if records are archival and appropriate for acquisition. 
 
 Archival records are those records, regardless of format, that:
-* Are no longer actively used by the records creator (individual or organization) in the day-to-day course of business for the purpose for which the records were created,
-* Can and will be open and made available for public use at a reasonable point in time,
-* Are an authentic record of the activities documented, and
-* Have enduring historical or informational value within scope of the RAC’s collecting strategy.
+1. Are no longer actively used by the records creator (individual or organization) in the day-to-day course of business for the purpose for which the records were created,
+2. Can and will be open and made available for public use at a reasonable point in time,
+3. Are an authentic record of the activities documented, and
+4. Have enduring historical or informational value within scope of the RAC’s collecting strategy.
 
 Once materials have been appraised and determined to be appropriate for acquisition, the records must be legally transferred to the RAC through an agreement establishing clear and actionable ownership, usage, and access terms. The records will then be physically transferred and accessioned into the RAC’s collections and declared to be in our custody and under our stewardship. 
 
